@@ -22,12 +22,13 @@
    
    1. Running this assignment on Linux machine(400 GB hard disk space and 15 GB memory) with SVM virtualization features exposed
      and has AMD processor.
+     run $ cat/proc/cpuinfo | more
      
-     
-   
    ![image 1](./pic/cpuinfo.png?raw=true )
      
    2. verify processor support for KVM, output should be “kvm-ok” and “KVM acceleration can be used”.
+   
+   ![image 1](./pic/kvminfo.png?raw=true )
    
    3. Modified vmx.c and cpuid.c program files.
    
