@@ -24,9 +24,12 @@
      and has AMD processor.
      
      run $ cat/proc/cpuinfo | more
+     
+     ![image 1](./pic/cpuinfo.png?raw=true )
+     
    2. verify processor support for KVM, output should be “kvm-ok” and “KVM acceleration can be used”.
    
-   3. Modifies vmx.c and cpuid.c program files.
+   3. Modified vmx.c and cpuid.c program files.
    
    4. build it make && make modules && make install && make modules_install 
 
