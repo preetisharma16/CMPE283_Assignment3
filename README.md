@@ -24,7 +24,7 @@
      and has AMD processor.
      
      
-     ![image 1](./temp/cpuinfo.png?raw=true )
+     ![image 1](./pic/cpuinfo.png?raw=true )
      
    2. verify processor support for KVM, output should be “kvm-ok” and “KVM acceleration can be used”.
    
