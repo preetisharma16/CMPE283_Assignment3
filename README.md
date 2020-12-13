@@ -30,7 +30,7 @@
    
    ![image 1](./pic/kvminfo.png?raw=true )
    
-   3. Modified vmx.c and cpuid.c program files.
+   3. Modified vmx.c, cpuid.h and cpuid.c program files.
    
    4. build it make && make modules && make install && make modules_install 
    
