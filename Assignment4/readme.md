@@ -14,3 +14,16 @@
    Its an individual assignment. Completed by Priti Sharma(014561274)
    
 # Question 2:
+  Steps performed :
+  
+  1. Remove kvm-intel.ko and kvm.ko kernels
+  
+  
+  
+  2. verfify kernels are removed properly 
+  
+  
+  3. Now inserting kernels with ept=0 
+  
+  
+  4. check total number of exits after rebooting
