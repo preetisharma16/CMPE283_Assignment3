@@ -46,7 +46,7 @@
       
       call cpuid code with cpuid -l 0x4ffffffe
    
-   ![image 1](./pic1png.png?raw=true )
+   ![image 1](./pic/pic1png.png?raw=true )
    
    
 
