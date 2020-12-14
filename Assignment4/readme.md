@@ -26,11 +26,10 @@
   ![image 1](./pics/out2.png?raw=true )
   
   
-  3. Now inserting kernels with ept=0 with nsmod /lib/modules/XXX/kernel/arch/x86/kvm/kvm-intel.ko ept=0. where XXX is the version of
-     the kernel you build for assignment 3.
-  
-  ![image 1](./pics/out3.png?raw=true )
-  
+  3. Now inserting kernels with ept=0 with command insmod /lib/modules/XXX/kernel/arch/x86/kvm/kvm-intel.ko ept=0. 
+     where XXX is the version of the kernel you build for assignment 3.
+     
+ ![image 1](./pics/out3.png?raw=true )
   
   4. check total number of exits after rebooting
   
