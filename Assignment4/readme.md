@@ -1,5 +1,5 @@
 #  CMPE283 : Virtualization Technology
-   CMPE283_Assignment3:  Instrumentation via hypercall
+   CMPE283_Assignment4: Nested Paging vs. Shadow Paging
    
    Student names: Priti Sharma(014561274)
    
@@ -8,9 +8,7 @@
    
    Prerequisites:
    
-   You will need a machine capable of running Linux, with VMX or SVM virtualization features exposed. 
-   You may be able to do this inside a VM, or maybe not, depending on your hardware and software configuration. 
-   Using the environment setup created for assignment 2.
+   A working assignment 3.
   
 # Question 1: 
    Its an individual assignment. Completed by Priti Sharma(014561274)
