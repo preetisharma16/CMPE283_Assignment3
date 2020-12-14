@@ -32,9 +32,15 @@
    
    3. Modified vmx.c and cpuid.c program files.
    
-   4. build it make && make modules && make install && make modules_install 
    
-   5. Open Terminal in the inner VM and call cpuid code with cpuid -l 0x4ffffffe
+   
+   4. compile module with build it with below commands
+   
+      sudo make -j 16
+      make && make modules && make install && make modules_install 
+   
+   5. Open Terminal in the inner VM and install cpuid packages.
+      call cpuid code with cpuid -l 0x4ffffffe
 
 
 
