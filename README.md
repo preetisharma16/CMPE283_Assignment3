@@ -36,7 +36,7 @@
    
    4. compile module with build it with below commands
    
-      sudo make -j 16
+      sudo make -j 16(nproc value)
       
       make && make modules && make install && make modules_install
       
