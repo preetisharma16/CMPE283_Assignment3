@@ -46,4 +46,5 @@
   What changed between the two runs (ept vs no-ept)?
   
   Answer: This assignment shows how to enforce shadow paging With ept, thus results in increased total number of exits.
+          with no-ept total number of exits did not increase rapidly as contrast to shadow paging.
 
