@@ -16,13 +16,11 @@
 # Question 2:
   Steps performed :
   
-  1. Remove kvm-intel.ko and kvm.ko kernels
+  1. Output of total exit count after running VM on assignment 3 and before removing the kernel modules.
   
   ![image 1](./pics/out1.png?raw=true )
   
-  
-  
-  2. verfify kernels are removed properly 
+  2. Remove kernel modules and verfify kernels are removed properly 
   
   ![image 1](./pics/out2.png?raw=true )
   
