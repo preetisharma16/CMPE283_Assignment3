@@ -37,6 +37,7 @@
    4. compile module with build it with below commands
    
       sudo make -j 16
+      
       make && make modules && make install && make modules_install 
    
    5. Open Terminal in the inner VM and install cpuid packages.
