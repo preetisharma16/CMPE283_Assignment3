@@ -58,6 +58,7 @@
    ![image 1](./pic/pic2.png?raw=true )
    
    8. dmesg output for cpuid -l 0x4ffffffe
+   
    ![image 1](./pic/dmesg2.png?raw=true )
    
    9. call cpuid code with cpuid -l 0x4ffffffe -s 65
