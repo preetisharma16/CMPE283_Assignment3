@@ -44,7 +44,7 @@
    
    5. Open Terminal in the inner VM and install cpuid packages.
       
-      call cpuid code with cpuid -l 0x4ffffffe to check the total number of exits
+      call cpuid code with cpuid -l 0x4fffffff and check the total number of exits
    
    ![image 1](./pic/pic1png.png?raw=true )
    
@@ -52,17 +52,19 @@
    
    ![image 1](./pic/dmesg1.png?raw=true )
    
-   7. 
+   7. call cpuid code with cpuid -l 0x4ffffffe
    
    
    ![image 1](./pic/pic2.png?raw=true )
    
-   
+   8. dmesg output for cpuid -l 0x4ffffffe
    ![image 1](./pic/dmesg2.png?raw=true )
    
+   9. call cpuid code with cpuid -l 0x4ffffffe -s 65
    
    ![image 1](./pic/pic3.png?raw=true )
    
+   10. dmesg output for cpuid -l 0x4ffffffe -s 65
    
    ![image 1](./pic/demesg3.png?raw=true )
    
