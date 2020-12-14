@@ -17,7 +17,7 @@
 # Question 2:
   Steps performed :
   
-  1. Output of total exit count, after running VM on assignment 3 and before removing the kernel modules.
+  1. Output of total number of exit count, after completing assignment 3 and before removing the kernel modules.
   
   ![image 1](./pics/out1.png?raw=true )
   
