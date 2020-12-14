@@ -40,13 +40,11 @@
   What did you learn from the count of exits? Was the count what you expected? If not, why not? 
   
   Answer: Total number of exit count increased when kernel is running with ept value "0". 
-  
           This is expected because here we are enforcing shadow paging by loading the kernel module with ept=0 value.
 
 # Question 4:
   What changed between the two runs (ept vs no-ept)?
   
   Answer: This assignment shows how to enforce shadow paging With ept, thus results in increased total number of exits.
-         
           with no-ept total number of exits did not increase rapidly as contrast to shadow paging.
 
