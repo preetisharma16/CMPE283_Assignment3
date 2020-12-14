@@ -18,12 +18,21 @@
   
   1. Remove kvm-intel.ko and kvm.ko kernels
   
+  ![image 1](./pics/out1.png?raw=true )
+  
   
   
   2. verfify kernels are removed properly 
   
+  ![image 1](./pics/out2.png?raw=true )
+  
   
   3. Now inserting kernels with ept=0 
   
+  ![image 1](./pics/out3.png?raw=true )
+  
   
   4. check total number of exits after rebooting
+  
+  ![image 1](./pics/out4.png?raw=true )
+  
