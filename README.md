@@ -41,6 +41,7 @@
       make && make modules && make install && make modules_install 
    
    5. Open Terminal in the inner VM and install cpuid packages.
+      
       call cpuid code with cpuid -l 0x4ffffffe
 
 
